@@ -1,0 +1,14 @@
+nav {
+    width: 85%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 92px;
+    padding: 16px 120px;
+    /* margin: 0px auto; */
+    background: #FFFFFF;
+}
+.navbar {
+    display: flex;
+    gap: 20px;
+}
