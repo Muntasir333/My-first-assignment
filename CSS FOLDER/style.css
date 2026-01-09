@@ -52,14 +52,15 @@ nav {
 .hero h6 {
     background-color: #FFFFFF;
     margin-bottom: px;
-    padding-left: 40px;
+    
     font-size: 16;
     font-weight: 500;
     line-height: auto;
     color: #469165;
-    width: 183px;
+    width: 300px;
     border-radius: 8px;
     margin-bottom: 0%;
+    text-align: center;
 }
 .hero h1 {
     /* font-size: 80px; */
@@ -184,16 +185,21 @@ button {
     line-height: 20px;
     color: #627382;
 }
+.textbox .n {
+    display: flex;
+    align-items: center;
+    justify-content: baseline;
+}
 
 .challange {
-    width: 1380px;
-    background-color: #469165;
-    padding: 120px;
+    width: 1150px;
+    background-color: #F7F6F2;
+    padding: 80px;
    display: flex;
    flex-direction: column;
    justify-content: center;
    align-items: center;
-   margin: 0px;
+   margin: 120px;
 }
 .challange h1 {
     font-size: 40px;
@@ -205,7 +211,7 @@ button {
     font-size: 16px;
     font-weight: normal;
     line-height: 20px;
-    color: #000000;
+    color: #627382;
     text-align: center;
 }
 .end {
