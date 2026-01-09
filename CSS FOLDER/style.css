@@ -96,6 +96,7 @@ button {
     width: 1360px;
     margin: auto;
 }
+
 .zero {
    display: flex;
     flex-direction: column;
@@ -113,6 +114,7 @@ button {
     align-items: center;
       gap: 24px;
       padding: 30px;
+    
     
 }
 .b {
@@ -154,3 +156,40 @@ button {
     color: #627382;
     text-align: center;
 }
+.solution {
+    width: 1360px;
+    display: flex;
+    padding: 120px;
+    gap: 60px;
+}
+.textbox h6 {
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 120px;
+    line-height: 20px;
+    margin-bottom: 0%;
+}
+.textbox .o {
+    font-size: 48px;
+    font-weight: bold;
+    line-height: auto;
+    margin-top: 0px;
+    
+}
+.textbox li {
+    list-style: none;
+    font-size: 16px;
+    font-weight: normal;
+    margin-top: 0%;
+    line-height: 20px;
+    color: #627382;
+}
+.challange {
+    width: 1360px;
+    padding: 120px;
+   
+}
+.challange button {
+    align-items: center;
+}
+
